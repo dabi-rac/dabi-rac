@@ -2,7 +2,6 @@
 
 <h1 align="center">Hi 👋, I'm dabi-rac</h1>
 <h3 align="center">42Roma Student</h3>
-<h3 align="center">AlmavivA Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dabi-rac&label=Profile%20views&color=0e75b6&style=flat" alt="dabi-rac" /> </p>
 
