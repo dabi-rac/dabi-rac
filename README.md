@@ -2,7 +2,7 @@
 
 <h1 align="center">Ciao 👋, sono Dario</h1>
 
-<h3 align="center">Student</h3>
+<h3 align="center">📚Studente di economia Roma 3📚<br>👨🏻‍💻42RomaLuiss student👨🏻‍💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dabi-rac&label=Profile%20views&color=0e75b6&style=flat" alt="dabi-rac" /> </p>
 
