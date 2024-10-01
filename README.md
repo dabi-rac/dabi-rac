@@ -4,7 +4,7 @@
 
 <h3 align="center">📚Studente di economia Roma 3📚<br><br>👨🏻‍💻42RomaLuiss student👨🏻‍💻<br><br>🔗Link alla Cartella di tutti gli appunti delle lezioni di Economia 24/25🔗<br><br>
 <p align="center">
-<a href="https://github.com/dabi-rac/University" target="_blank">Cartella del Corso</a>
+<a href="https://github.com/dabi-rac/University" target="_blank">➡️ Cartella del Corso⬅️</a>
 </p>
 </h3>
 <br><br>
