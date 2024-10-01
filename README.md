@@ -2,7 +2,7 @@
 
 <h1 align="center">Ciao 👋, sono Dario</h1>
 
-<h3 align="center">📚Studente di economia Roma 3📚<br><br>👨🏻‍💻42RomaLuiss student👨🏻‍💻<br> <br>🔗Link alla Cartella di tutti gli appunti delle lezioni di Economia 24/25🔗<br><p align="left"> <img src="https://komarev.com/ghpvc/?username=dabi-rac&label=Profile%20views&color=0e75b6&style=flat" alt="dabi-rac" /> </p>
+<h3 align="center">📚Studente di economia Roma 3📚<br><br>👨🏻‍💻42RomaLuiss student👨🏻‍💻<br> <br>🔗Link alla Cartella di tutti gli appunti delle lezioni di Economia 24/25🔗<br><p align="left"></p>
 </h3>
 <br>
 <br>
