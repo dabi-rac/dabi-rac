@@ -23,8 +23,6 @@
 
 > 📦 148.8 kB Used in GitHub's Storage 
  > 
-> 🏆 129 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 15 Public Repositories 
@@ -58,17 +56,16 @@ Sunday                   7 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-C++                      26 mins             ████████████████████████░   97.71 % 
-Makefile                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  26 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-mennaji08                26 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    26 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C** 
@@ -84,7 +81,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 08/10/2024 00:41:20 UTC
+ Last Updated on 08/10/2024 01:18:01 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Languages and Tools:</h3>
