@@ -29,45 +29,6 @@
  > 
 > 🔑 2 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                41 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
-🌆 Daytime                148 commits         ██████████░░░░░░░░░░░░░░░   40.44 % 
-🌃 Evening                142 commits         ██████████░░░░░░░░░░░░░░░   38.80 % 
-🌙 Night                  35 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   37 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
-Tuesday                  101 commits         ███████░░░░░░░░░░░░░░░░░░   27.60 % 
-Wednesday                109 commits         ███████░░░░░░░░░░░░░░░░░░   29.78 % 
-Thursday                 44 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
-Friday                   15 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
-Saturday                 31 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
-Sunday                   29 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Rome
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in C** 
 
 ```text
@@ -81,7 +42,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/11/2024 12:31:18 UTC
+ Last Updated on 04/11/2024 00:43:46 UTC
 <!--END_SECTION:waka-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dabi-rac&label=Profile%20views&color=0e75b6&style=flat" alt="dabi-rac" /> </p>
