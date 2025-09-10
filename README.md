@@ -2,7 +2,7 @@
 
 <h1 align="center">Ciao 👋, sono Dario</h1>
 
-<h3 align="center">📚Studente di economia Roma 3📚<br><br>👨🏻‍💻42RomaLuiss student👨🏻‍💻<br><br>🔗Link alla Cartella di tutti gli appunti delle lezioni di Economia 24/25🔗<br><br>
+<h3 align="center">📚Studente di economia Roma 3📚<br><br>👨🏻‍💻42RomaLuiss student👨🏻‍💻<br><br>mail per contatto : dario.abi.r@gmail.com<br><br>🔗Link alla Cartella di tutti gli appunti delle lezioni di Economia 24/25🔗<br><br>
 <p align="center">
 <a href="https://github.com/dabi-rac/University" target="_blank">➡️ Cartella del Corso di Economia⬅️</a>
 </p>
